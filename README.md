@@ -14,3 +14,7 @@ in his colour.
 2. Basic AI
 3. Hotseat multiplayer
 4. GUI
+
+#####Milestone number 2:
+
+To prepare the tile based play field.
