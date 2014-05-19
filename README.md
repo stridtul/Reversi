@@ -14,7 +14,3 @@ in his colour.
 2. Basic AI
 3. Hotseat multiplayer
 4. GUI
-
-#####Estimation for the second milestone:
-
-Create the GUI
